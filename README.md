@@ -1,7 +1,7 @@
 # React-JS--Crud-Mysql
 
  <p align="center">
-  <img src="./client/src/assets/to_readme/ScrimShop.gif" width="600px">
+  <img src="../client/src/assets/to_readme/ScrimShop.gif" width="600px">
 </p>
 
 ## Installation
